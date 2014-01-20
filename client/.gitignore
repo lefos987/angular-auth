@@ -6,3 +6,5 @@ report/
 dist/vendor/**/
 node_modules/
 src/styles/css/
+dist/
+docs/
