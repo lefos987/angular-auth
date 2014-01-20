@@ -1,0 +1,9 @@
+<h1>{{title}}</h1>
+<a href="/">Home</a>
+<button ng-click="logout()">Logout</button>
+<ul>
+	<li ng-repeat="msg in messages">
+		<h5>From: {{msg.from}}</h5>
+		<p>{{msg.content}}</p>
+	</li>
+</ul>

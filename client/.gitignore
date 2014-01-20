@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+*.log
+.sass-cache/
+report/
+dist/vendor/**/
+node_modules/
+src/styles/css/
